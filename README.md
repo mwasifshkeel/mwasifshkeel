@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Wasif Shakeel</h1>
 <h3 align="center">An enthusiastic Full-Stack Developer and Data Scientist from Pakistan</h3>
-# 💫 About Me:
+
+---
+[![](https://komarev.com/ghpvc/?username=mwasifshkeel&icon=6&color=redd)]
+
+---
+💫 About Me:
 🔭 I’m currently working on a smart LLM powered expense tracking application with multilingual support<br><br>🌱 I’m currently learning AWS, Docker, LangGraph, RAG<br><br>👯 I’m looking to collaborate on open-source web applications, deep learning models, and data analysis tools<br><br>👨‍💻 All of my projects are available at https://portfolio-mwasifshkeel.vercel.app/<br><br>📫 How to reach me mwasifshkeel@gmail.com
 
 
@@ -16,8 +21,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mwasifshkeel&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=mwasifshkeel&icon=6&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
