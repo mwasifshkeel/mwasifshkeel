@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic Full-Stack Developer and Data Scientist from Pakistan</h3>
 
 ---
-[![](https://komarev.com/ghpvc/?username=mwasifshkeel&icon=6&color=red)]
+![](https://komarev.com/ghpvc/?username=mwasifshkeel&icon=6&color=red)
 
 ---
 💫 About Me:
